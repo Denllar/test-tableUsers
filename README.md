@@ -11,3 +11,6 @@ Stack:
 
 State Manager:  
 » Redux Toolkit  
+
+Дополнение:  
+Очень сильно хочу попасть в вашу команду
