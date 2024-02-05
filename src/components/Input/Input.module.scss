@@ -81,6 +81,9 @@
         option{
             font-size: 3vh; 
         }
+        @media(max-width: 400px){
+            height: 15px;
+        }
     }
 
 }
