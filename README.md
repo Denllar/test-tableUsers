@@ -1,8 +1,13 @@
-# React + Vite
+Тестовое задание на JS для ИнфоТеКС. Проект включает в себя поиск людей по разным критериям: ФИО, возраст, пол, номер телефона, город, улица. 
+Так же осуществлена сортировка по ФИО, возрасту, полу, городу и улице.
+В проекте присутствует модальное окно с подробными данными по пользователям.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+👉 Live Demo: https://denllar.github.io/test-tableUsers/
 
-Currently, two official plugins are available:
+Stack:
+» HTML&CSS / SCSS
+» JavaScript
+» TypeScript
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+State Manager:
+» Redux Toolkit
