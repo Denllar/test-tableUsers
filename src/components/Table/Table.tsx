@@ -207,6 +207,7 @@ const Table: React.FC = () => {
                     }
                 </tbody>
             </table>
+            <a href='https://github.com/Denllar/test-tableUsers' target='_blank'>code review<span>→</span></a>
         </main>
     )
 }

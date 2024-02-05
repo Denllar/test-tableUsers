@@ -58,6 +58,24 @@
     padding: 1vh 1vw;
     border-radius: 2vw;
     
+    a {
+        font-size: 1.5vw;
+        text-decoration: none;
+        color: rgb(36, 124, 255);
+        cursor: pointer;
+        
+        &:hover {
+            span {
+                transform: translateX(15px);
+            }
+        }
+        
+        span{
+            transition: transform 0.2s ease-in-out;
+        }
+        
+    }
+
     button,
     p {
         font-size: 1.3vw;
