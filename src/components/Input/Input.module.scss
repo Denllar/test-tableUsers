@@ -24,9 +24,12 @@
         }
         input{
             width: 10vw;
-            height: 1.3vh;
+            height: 1vw;
             font-size: 1.5vw;
             padding: 1vh 0.5vw;
+            @media(max-width: 400px){
+                height: 0.5px;
+            }
         }
 
 

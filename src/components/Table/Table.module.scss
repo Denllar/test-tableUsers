@@ -95,13 +95,9 @@
         thead {
             th {
                 background-color: #9a72ff;
-                margin-right: 10px;
-
                 button {
                     border: 1px solid #9a72ff;
-                    border-radius: 5px;
-                    padding: 6px 20px;
-                    margin: 3px 10px;
+                    border-radius: 1vw;
                     cursor: pointer;
                     &:hover {
                         background-color: lighten($color: #adefff, $amount: 0)
