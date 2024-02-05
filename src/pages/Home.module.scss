@@ -1,0 +1,7 @@
+.wrapper{
+    display: flex;
+    //justify-content: safe center;
+    @media(max-width: 1472px){
+        flex-direction: column;
+    }
+}
